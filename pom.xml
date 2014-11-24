@@ -117,10 +117,17 @@
         </dependency>
 
         <!-- MySql -->
-        <dependency>
+        <!--<dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.6</version>
+        </dependency>-->
+
+        <!--- PostgreSql -->
+        <dependency>
+            <groupId>postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>9.1-901.jdbc4</version>
         </dependency>
 
         <dependency>
